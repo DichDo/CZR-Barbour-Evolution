@@ -42,25 +42,8 @@ To provide collectors and institutions with the tools, insights, and network req
 
 CZR Barbour Evolution represents the evolution of art management into a connected, data-informed, and client-centered discipline where expertise, technology, and trust converge to create enduring value across the global art market.
 
----
 
-## Installation
 
-To clone and start working locally:
-
-```bash
-git clone https://github.com/<your-username>/CZR-Barbour-Evolution.git
-cd CZR-Barbour-Evolution
-```
-
-If using Node.js for frontend or backend setup (later phase):
-
-```bash
-npm install
-npm start
-```
-
----
 
 ## Contribution
 
