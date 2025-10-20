@@ -1,7 +1,38 @@
-<title>CZR Barbour Evolution | Global Art Management and Advisory</title>
-<meta name="description" content="CZR Barbour Evolution is a global professional art management and advisory platform providing strategic services for collection management, valuation, and investment insight.">
-<meta property="og:title" content="CZR Barbour Evolution">
-<meta property="og:description" content="Where art management meets financial intelligence. A global platform for structured ownership, valuation, and advisory.">
-<meta property="og:image" content="assets/czr-logo.png">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary_large_image">
+# CZR-Barbour-Evolution
+
+## Overview
+A professional art management and advisory platform for artists, collectors, galleries, and institutions.
+
+## Features
+- Artwork catalog and portfolio management
+- Gallery dashboard
+- Artist profile system
+- Exhibition planning module (planned)
+- Multilingual support (planned)
+
+## Tech Stack
+- TypeScript
+- React + Vite
+- TailwindCSS
+- ESLint
+
+## Getting Started
+1. Clone the repository  
+   git clone https://github.com/DichDo/CZR-Barbour-Evolution.git
+2. Install dependencies  
+   npm install
+3. Start development server  
+   npm run dev
+
+## Roadmap
+- [ ] Authentication
+- [ ] Artwork upload
+- [ ] Gallery dashboard
+- [ ] Analytics module
+
+## Contributing
+Pull requests are welcome.  
+Open an issue for feature requests or bug reports.
+
+## License
+MIT License
